@@ -1,0 +1,19 @@
+{
+  "name": "angular-test",
+  "version": "1.0.0",
+  "description": "test on angular app",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Masysteria/angular-test.git"
+  },
+  "author": "Masysteria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masysteria/angular-test/issues"
+  },
+  "homepage": "https://github.com/Masysteria/angular-test"
+}
